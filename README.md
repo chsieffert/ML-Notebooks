@@ -1,23 +1,30 @@
 # ML-Notebooks
 
-Welcome to my repository of Machine Learning experiments, a collection of Python notebooks showcasing the work I've conducted in my exploration of machine learning techniques and applications.
+Welcome to my repository of Machine Learning experiments, showcasing a variety of approaches I've explored throughout my studies.
 
 ## Contents
 
-This repository includes a variety of experiments, primarily focused on the following areas:
+This repository includes the following key experiments:
 
 1. **Convolutional Neural Networks (CNNs)**
-   - During both my undergraduate and graduate studies, I developed multiple CNN architectures, some of which are included here.
-   - These notebooks explore applications in image classification, object detection, and other computer vision tasks.
+   - Developed CNN architectures for image classification tasks, particularly using the MNIST dataset.
 
-2. **Natural Language Processing (NLP) with NLTK**
-   - I've worked extensively with the Natural Language Toolkit (NLTK) library for NLP and language generation experiments.
-   - These experiments focus on text processing, tokenization, sentiment analysis, and language model development.
+2. **Generative Adversarial Networks (GANs)**
+   - Conducted experiments with GANs to explore data generation and augmentation, also applied to the MNIST dataset.
 
-3. **Retrieval-Augmented Generation (RAG)**
-   - I've experimented with retrieval-augmented generation, leveraging the OpenAI GPT-3.5-Turbo and GPT-4 models to create intelligent agents.
-   - These agents were developed to generate custom content in a proprietary application, demonstrating the power of RAG in constrained environments.
+3. **MNIST Training and Testing Notebooks**
+   - These notebooks explore different techniques for understanding the MNIST dataset:
+     - **Feature Reduction**
+     - **Feature Extraction**
+     - **Manifold Learning**
+   - Methods such as PCA, t-SNE, and LDA are used to analyze and reduce the dataset's dimensionality while maintaining key insights.
+
+4. **Natural Language Processing (NLP) with NLTK**
+   - Worked with the NLTK library for text processing, sentiment analysis, and language model generation.
+
+5. **Retrieval-Augmented Generation (RAG)**
+   - Experimented with OpenAI's GPT models (GPT-3.5 and GPT-4) to create agents capable of generating custom content in proprietary applications.
 
 ## Note on Datasets
 
-For simplicity, the notebooks in this repository do not include the underlying datasets or additional context used in these experiments. If you wish to reproduce the experiments, please refer to the specific dataset sources mentioned within each notebook.
+The experiments primarily rely on the MNIST dataset, and while the datasets are not included here, you can reference the specific sources in the notebooks.
