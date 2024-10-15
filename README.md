@@ -23,7 +23,7 @@ This repository includes the following key experiments:
    - Worked with the NLTK library for text processing, sentiment analysis, and language model generation.
 
 5. **Retrieval-Augmented Generation (RAG)**
-   - Experimented with OpenAI's GPT models (GPT-3.5 and GPT-4) to create agents capable of generating custom content in proprietary applications.
+   - Experimented with OpenAI's GPT models (GPT-3.5-turbo and GPT-4) to create agents capable of generating custom content in proprietary applications.
 
 ## Note on Datasets
 
